@@ -1,16 +1,7 @@
 # IoTMediaStream
-# Mục lục
-- [IoTMediaStream](#iotmediastream)
-- [Mục lục](#mục-lục)
-  - [Giới thiệu](#giới-thiệu)
-  - [Hướng dẫn sử dụng Markdown](#hướng-dẫn-sử-dụng-markdown)
-  - [Liên kết nội bộ](#liên-kết-nội-bộ)
 
 ## Giới thiệu
-Đây là phần giới thiệu về Markdown.
+Đây là một hướng dẫn đầy đủ và chi tiết để xây dựng một end-to-end mô hình truyền phát media thời gian thực cho các thiết bị IoT từ việc [thiết lập server]() đến việc thiết lập cho thiết bị IoT: cài đặt [hệ điều hành openwrt 24.10](./install_openwrt/README.md), xây dụng pkg-config, biên dịch mã nguồn cần thiết
 
-## Hướng dẫn sử dụng Markdown
-Trong phần này, chúng ta sẽ học cách sử dụng Markdown.
-
-## Liên kết nội bộ
-Bạn có thể nhấp vào liên kết bên dưới để quay lại phần [Hướng dẫn sử dụng Markdown](#hướng-dẫn-sử-dụng-markdown).
+## Đầu tiên là thiết lập thiết bị IoT
+Đang dần hoàn thiện
